@@ -1,0 +1,22 @@
+{
+  "name": "gifgifgif",
+  "version": "1.0.0",
+  "dependencies": {
+  	"yargs": "latest",
+    "async": "latest",
+    "fs-extra": "latest",
+    "moment": "latest",
+    "underscore": "latest",
+    "underscore.string": "latest",
+    "elasticsearch": "latest",
+    "subtitles-parser": "latest",
+    "moviedb": "latest",
+    "express": "latest",
+    "ejs": "latest",
+    "aws-sdk": "latest"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.4.x"
+  }
+}

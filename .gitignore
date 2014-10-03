@@ -1,0 +1,5 @@
+secrets.json
+png/
+gif/
+node_modules/
+.DS_Store
